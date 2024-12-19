@@ -1,5 +1,5 @@
 
- # Hi there, I'm Shrivalidutt! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=shrivalidutt&color=brightgreen)
+ # Hi there, I'm Shrivalidutt! 👋
 - 💞️ Open to collaborate.
   
 ![Profile Views](https://komarev.com/ghpvc/?username=shrivalidutt&color=brightgreen)
