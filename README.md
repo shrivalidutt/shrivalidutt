@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @shrivalidutt.
 - 💞️ Open to collaborate.
+  # Hi there, I'm Shrivalidutt! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=shrivalidutt&color=brightgreen)
+
+
+## 📈 GitHub Stats
+
+![Shrivalidutt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrivalidutt&show_icons=true&theme=radical)
   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/shrivali_dutt)](https://leetcode.com/shrivali_dutt)
 
